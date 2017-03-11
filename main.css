@@ -23,7 +23,7 @@ li a:hover:not(.active) {
 }
 
 body {
-    background-color: #080A4A;
+    background-color: lavender;
 }
 
 h1 {
@@ -34,5 +34,5 @@ h3 {
   color: Ivory;
 }
 div.example1{
-  background-color:lavender;
+  background-color:#080A4A;
 }
