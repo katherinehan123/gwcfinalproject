@@ -23,9 +23,7 @@ li a:hover:not(.active) {
 }
 
 .active {
-    background-color: #4CAF50;
-}
-  background-image: url('https://www.beautycolorcode.com/b0bec5-2880x1800.png');
+    background-color: navyblue;
 }
 
 h1 {
